@@ -1,0 +1,22 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Iphone 12 pro max",
+      "price": 123299,
+      "image": "https://rukminim2.flixcart.com/image/832/832/kg8avm80/mobile/g/z/c/apple-iphone-12-pro-max-dummyapplefsn-original-imafwgcyyemh9hbg.jpeg?q=70"
+    },
+    {
+      "id": 2,
+      "name": "Iphone 13 pro max",
+      "price": 139900,
+      "image": "https://rukminim2.flixcart.com/image/832/832/kg8avm80/mobile/g/z/c/apple-iphone-12-pro-max-dummyapplefsn-original-imafwgcyyemh9hbg.jpeg?q=70"
+    },
+    {
+      "id": 3,
+      "name": "Iphone 14 pro max",
+      "price": 127999,
+      "image": "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/6/x/j/-original-imaghxejqvpwfqh2.jpeg?q=70"
+    }
+  ]
+}
