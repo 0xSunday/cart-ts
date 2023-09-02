@@ -1,6 +1,9 @@
-
+import products from "../../data/data.json";
 export default function Home() {
-  return (
-  <h1>hello sunil</h1>
-  )
-}
+  console.log(products);
+  return 
+    <div>
+     hello
+    </div>
+  ;
+} 
